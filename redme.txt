@@ -1,0 +1,2 @@
+first of all this AI Chat bot use the open ai to make it alive
+Need twilio account, ngrok account
